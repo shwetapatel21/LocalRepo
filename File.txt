@@ -1,0 +1,4 @@
+"Here we craete new directory "
+'Then we go inside that directory'
+'using lscommoand we got to know that it is not dotgit file so to make it'
+"we run initcommand."
